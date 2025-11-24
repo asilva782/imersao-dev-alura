@@ -1,0 +1,76 @@
+[
+    {
+        "nome": "JavaScript",
+        "descricao": "JavaScript é uma linguagem Web.",
+        "Data da criação": 1995,
+        "link":"https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+
+    },
+    {
+        "nome": "Python",
+        "descricao": "Python é uma linguagem de programação de alto nível.",
+        "Data da criação": 1991,
+        "link": "https://docs.python.org/pt-br/3.14/"
+    },
+   {
+        "nome": "Java",
+        "descricao": "Java é uma linguagem de programação orientada a objetos e portável.",
+        "Data da criação": 1995,
+        "link": "https://www.oracle.com/br/java/"
+    },
+    {
+        "nome": "C#",
+        "descricao": "C# é uma linguagem de programação moderna e orientada a objetos da Microsoft.",
+        "Data da criação": 2000,
+        "link": "https://learn.microsoft.com/pt-br/dotnet/csharp/"
+    },
+    {
+        "nome": "TypeScript",
+        "descricao": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática.",
+        "Data da criação": 2012,
+        "link": "https://www.typescriptlang.org/"
+    },
+    {
+        "nome": "Go",
+        "descricao": "Go é uma linguagem de programação compilada, concorrente e de código aberto do Google.",
+        "Data da criação": 2009,
+        "link": "https://go.dev/"
+    },
+    {
+        "nome": "Rust",
+        "descricao": "Rust é uma linguagem de programação focada em segurança, velocidade e concorrência.",
+        "Data da criação": 2010,
+        "link": "https://www.rust-lang.org/pt-BR"
+    },
+    {
+        "nome": "Ruby",
+        "descricao": "Ruby é uma linguagem de programação dinâmica e de código aberto, focada na simplicidade e produtividade.",
+        "Data da criação": 1995,
+        "link": "https://www.ruby-lang.org/pt/"
+    },
+    {
+        "nome": "PHP",
+        "descricao": "PHP é uma linguagem de script do lado do servidor, popular para o desenvolvimento de sites e aplicativos web dinâmicos.",
+        "Data da criação": 1994,
+        "link": "https://www.php.net/"
+    },
+    {
+        "nome": "C++",
+        "descricao": "C++ é uma linguagem de programação compilada, de uso geral e multiparadigma, sendo uma extensão da linguagem C.",
+        "Data da criação": 1983,
+        "link": "https://isocpp.org/"
+    },
+    {
+        "nome": "Swift",
+        "descricao": "Swift é uma linguagem de programação desenvolvida pela Apple para criar aplicativos para iOS, macOS, watchOS e tvOS.",
+        "Data da criação": 2014,
+        "link": "https://www.swift.org/"
+    },
+    {
+        "nome": "Kotlin",
+        "descricao": "Kotlin é uma linguagem de programação moderna, concisa e segura, que compila para a Máquina Virtual Java (JVM).",
+        "Data da criação": 2011,
+        "link": "https://kotlinlang.org/"
+    }
+
+]
